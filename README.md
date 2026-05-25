@@ -32,7 +32,7 @@ Atualmente focado em JavaScript e React.
 
 ## 🛠️ Projetos
 
-### Smart Highlights
+### Web Highlights
 Extensão para Chrome que permite destacar textos em páginas da web e persistir os destaques localmente.
 
 **Tecnologias utilizadas:**
